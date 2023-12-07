@@ -10,7 +10,7 @@
 
 # PHP-API
 
-### ❇️ API desenvolvida em PHP utilizando o Framework Laravel e Mysql como banco de dados ❇️
+### ❇️ API desenvolvida utilizando o Framework Laravel e Mysql como banco de dados ❇️
  - Listagem do Produto;
  - Criação do usuário;
  - Alteração do Produto;
