@@ -23,7 +23,7 @@
 
 
 
-### 🎯 LOCALICAR PRODUTO.
+### 🎯 LOCALIZAR PRODUTO.
   
 ### ```GET``` 
 ```URL
