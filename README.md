@@ -20,27 +20,3 @@
 <br> 
 
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=API-BSLTECH&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDivinha2023%2FAPI-BSLTECH%2Fmain%2FAPI-BSLTECH.json)
-
-
-
-### 🎯 LOCALIZAR PRODUTO.
-  
-### ```GET``` 
-```URL
-http://localhost:8000/api/products
-
-```
-  
-```JSON
-
-"nome": "jogo de PC",
-"descricao": "gta v",
-"preco": "54",
-"updated_at": "..........",
-"created_at": "..........",
-"id": 7
-
-
-```
-
-
